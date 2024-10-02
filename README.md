@@ -1,4 +1,4 @@
-# mlops
+# ml-project-with-mlflow
 
 ## Workflows
 
