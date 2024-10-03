@@ -139,9 +139,9 @@ export MLFLOW_TRACKING_PASSWORD=5d8110187a1d93c0616c23632a794e81795affee
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID= 
+    AWS_ACCESS_KEY_ID= find in chirag-ml-user_accessKeys
 
-    AWS_SECRET_ACCESS_KEY=
+    AWS_SECRET_ACCESS_KEY= find in chirag-ml-user_accessKeys
 
     AWS_REGION = ap-south-1
 
